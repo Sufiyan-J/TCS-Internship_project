@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/sufi-project/keycloak.iml" filepath="$PROJECT_DIR$/sufi-project/keycloak.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/sufi-project.iml" filepath="$PROJECT_DIR$/.idea/sufi-project.iml" />
-    </modules>
-  </component>
-</project>
